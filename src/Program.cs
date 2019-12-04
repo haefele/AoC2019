@@ -1,4 +1,5 @@
 ﻿using AoC2019.Day1;
+using AoC2019.Day2;
 
 namespace AoC2019
 {
@@ -6,7 +7,7 @@ namespace AoC2019
     {
         static void Main(string[] args)
         {
-            var day1 = new AoCDay1Part2();
+            var day1 = new AoCDay2Part2();
             day1.Run();
         }
     }
